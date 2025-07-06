@@ -57,14 +57,20 @@ pip install streamlit
 ## Other dependencies
 
 ### For HuggingFace transformers
+
+```bash
 pip install transformers
 conda install pytorch
+```
 
 ### For Google vertex AI
+
+```bash
 pip install google-cloud-aiplatform   // --upgrade ?
 sudo snap install google-cloud-cli --classic
 pip3 install black
 conda install numpy"<=2.0"
+```
 
 
 ### Installing Ruff
@@ -83,4 +89,8 @@ ruff format  # Format all files in the current directory.
 
 ### Bokeh visualization
 
-pip install bokeh -- already installed?
+It may already be installed to this point.
+
+```bash
+pip install bokeh
+```
