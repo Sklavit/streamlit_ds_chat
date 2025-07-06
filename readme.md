@@ -1,5 +1,6 @@
-Title
-feat: add Streamlit app for DS chat with Google Vertex AI and Coiled integration
+# Streamlit app for DS chat with Google Vertex AI and Coiled integration
+
+**This is an extract from another repository. Sadly, all commit history is lost.**
 
 Overview
 Introduced a new Streamlit application for data science chat functionality using Google Vertex AI.
